@@ -12,9 +12,10 @@ const ContactPage = () => {
             href="https://twitter.com/@andrew_j_mead"
             rel="noopener noreferrer"
             target="_blank"
-          >
+          > 
+            {" "}
             @andrew_j_mead
-          </a>
+          </a>{" "}
           on Twitter!
         </p>
       </Layout>
